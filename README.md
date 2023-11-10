@@ -1,6 +1,6 @@
 # Matching-Algorithm
 
-• Java program that helped people learn basic computer skills, used SQLite to store data
+• Java program for a service that helped people learn basic computer skills, used SQLite to store data
 
 • Program made each session more efficient and maximized client learning
 
